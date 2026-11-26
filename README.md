@@ -4,7 +4,11 @@ A mod for **The Riftbreaker** that shows your whole planet's economy at a glance
 
 ![Scanner Economy](preview.png)
 
+**Download:** [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3846109591) · [mod.io](https://mod.io/g/riftbreaker/m/scanner-economy)
+
 Hold **Space** at your **HQ**, any **Outpost**, or the **Orbital Scanner** to open the Global Economy panel:
+
+![The Global Economy panel in game](screenshot.png)
 
 - **Minerals (all outposts):** current stock and net change per second for Carbonium, Ironium, Cobalt, Palladium, Titanium, Crude Uranium and Uranium. Resources at their storage limit are flagged **FULL**, because any surplus is being lost.
 - **Compressed liquids (all outposts):** total compression rate per second for each liquid, plus how full its buffer is.
@@ -13,7 +17,7 @@ Rates are averaged over the last 60 seconds and restart when you load a map, so 
 
 ## Install
 
-- **Steam Workshop:** subscribe in the Workshop or through the in-game Mods menu.
+- **Steam Workshop / mod.io:** subscribe on the [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3846109591), on [mod.io](https://mod.io/g/riftbreaker/m/scanner-economy), or through the in-game Mods menu.
 - **Manual:** zip the `lua` and `gui` folders (so they sit at the root of the zip) and put the zip in `<Riftbreaker install>\mods\`. Do not unzip it there.
 
 ## How it works
